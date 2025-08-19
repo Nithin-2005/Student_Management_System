@@ -1,0 +1,18 @@
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE/Editor specific files (if any, example for VS Code)
+.vscode/
+
+# Generated files (if any)
+
+# Specific folders/files from your project structure
+.dbm/  # If this is indeed an irrelevant parent folder outside your project
