@@ -106,8 +106,8 @@ pip install pillow
 
 ## 👨‍💻 Author
 
-**Abhiram S**
-GitHub: [Abhiram678](https://github.com/Abhiram678)
+**Nithin Talasu**
+GitHub: [Nithin2005](https://github.com/Nithin2005)
 
 ---
 
